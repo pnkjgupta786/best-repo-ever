@@ -1,2 +1,3 @@
 # best-repo-ever
-my first change in this repo
+my first change in this repo from local to test "push" request 
+first change from git itseif for "pull" requesst testing
